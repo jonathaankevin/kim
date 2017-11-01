@@ -1,0 +1,40 @@
+body, html {
+  height: 100%;
+  margin: 0;
+}
+
+
+.background {
+  position: relative;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  background: #43cea2;
+  background: -webkit-linear-gradient(to right, #185a9d, #43cea2);
+  background: linear-gradient(to right, #185a9d, #43cea2);
+}
+
+
+#kim {
+    width: 80%;
+    height: auto;
+    margin: auto;
+    display: block;
+    padding: 1%; 
+}
+
+#neck {
+    border-color: black; 
+}
+
+
+/*
+#kim {
+    width: 80%;
+    height: auto;
+    margin: auto;
+    display: block;
+    padding: 1%; 
+}
+*/
